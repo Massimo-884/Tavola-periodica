@@ -1,0 +1,39 @@
+.Massimoilbos{
+background-color: aliceblue;
+text-align: center;
+color: #00008b;
+padding: 16px; ;
+
+border-style: solid;
+border-color: blue;
+border-width: 30px;
+border-radius: 45px;
+
+
+
+}
+.Menu-navigazione{
+    color:blue;
+padding: 4px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.piccione {
+    position: absolute;
+    top:700px
+    left:3px
+
+} 
+ 
+.Bio-Edo {
+    color:aqua;
+}
+
+.Bio-Camila {
+    color: aqua;
+}
+
+.tony {
+    color: black;
+}
